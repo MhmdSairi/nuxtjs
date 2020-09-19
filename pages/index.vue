@@ -3,25 +3,25 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxtjs
+        mhmdsairi
       </h1>
       <h2 class="subtitle">
-        My astonishing Nuxt.js project
+        website
       </h2>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
+          href="https://ironimouse.blogspot.com/"
           target="_blank"
           class="button--green"
         >
-          Documentation
+          Ironimouse
         </a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://mhmdsairi.vercel.app"
           target="_blank"
           class="button--grey"
         >
-          GitHub
+          Panel
         </a>
       </div>
     </div>
