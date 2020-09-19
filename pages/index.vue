@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        ㅡㅗㅓ쇼ㅕ
+        쇼
       </h1>
       <h2 class="subtitle">
         website
